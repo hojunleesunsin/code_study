@@ -4,8 +4,23 @@ import java.util.List;
 import java.util.Scanner;
 
 /*
- ** 입출력 예시 **
- 
+다익스트라
+
+ ** 입력 예시 **
+ 6
+ 10
+ 0 1 2
+ 0 2 5
+ 0 3 3
+ 1 2 7
+ 2 3 1
+ 1 5 10
+ 2 5 5
+ 2 4 2
+ 3 4 7
+ 5 4 2
+
+ 시작할 정점 입력 >> 0
  */
 
 public class Dijkstra { //인접 행렬 방식

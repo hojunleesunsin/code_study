@@ -1,3 +1,5 @@
+// 유니온 파인드
+
 public class UnionFind {
     static int[] parent;
 

@@ -6,6 +6,8 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
+벨만-포드
+
 ** 입출력 예시 **
 입력
 5
