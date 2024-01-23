@@ -1,3 +1,5 @@
+// 인접 행렬 무방향 무가중치
+
 public class AdjacencyMatrix {
     public static void print(int[][] graph) {
         for (int i = 1; i < graph.length; i++) {
